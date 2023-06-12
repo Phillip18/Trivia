@@ -1,0 +1,4 @@
+USERNAME = 'filipp'
+PASSWORD = ''
+DATABASE_NAME = 'trivia'
+TEST_DATABASE_NAME = 'trivia_test'
